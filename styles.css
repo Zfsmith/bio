@@ -3,7 +3,7 @@ body{
 	padding: 0;
 	font-family: "georgia","Times New Roman", Times, serif;
 	font-size: 18px;
-	color:#333333;
+	color:#333;
 	line-height: 150%;
 	background: #efeee7;
 }
@@ -25,10 +25,10 @@ a{
 	color: #d21034;
 }
 .container{
-	margin: 0 auto;
 	width: 1024px;
+	margin: 0 auto;
 }	
-#ain-bio,
+#main-bio,
 #contact-info,
 #bio-image{
 	float: left;
